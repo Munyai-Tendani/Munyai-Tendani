@@ -2,5 +2,5 @@
 
 
 - 🔭 I’m currently working on Bright Coffee Shop Sales Analysis
-- 👯 I’m looking to collaborate on more projects
+- 👯 I’m looking forward to collaborate on more projects
 
